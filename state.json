@@ -1,0 +1,21 @@
+{
+  "vix20": false,
+  "vix30": false,
+  "us10y": false,
+  "us30y": false,
+  "curve": false,
+  "hyoas4": false,
+  "hyoas5": false,
+  "hyg_drop": false,
+  "krw": true,
+  "jpy_move": false,
+  "dxy": false,
+  "gold_drop": false,
+  "gs_ratio": false,
+  "copper_drop": false,
+  "spx_drop": false,
+  "sox_drop": false,
+  "rut_drop": false,
+  "kre_drop": false,
+  "btc_drop": false
+}
