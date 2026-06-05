@@ -1,8 +1,8 @@
 {
-  "vix20": false,
+  "vix20": true,
   "vix30": false,
   "us10y": false,
-  "us30y": true,
+  "us30y": false,
   "curve": false,
   "hyoas4": false,
   "hyoas5": false,
