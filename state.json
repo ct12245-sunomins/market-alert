@@ -10,7 +10,7 @@
   "krw": true,
   "jpy_move": false,
   "dxy": false,
-  "gold_drop": true,
+  "gold_drop": false,
   "gs_ratio": false,
   "copper_drop": false,
   "spx_drop": false,
