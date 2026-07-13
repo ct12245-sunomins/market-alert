@@ -7,7 +7,7 @@
   "hyoas4": false,
   "hyoas5": false,
   "hyg_drop": false,
-  "krw": false,
+  "krw": true,
   "jpy_move": false,
   "dxy": false,
   "gold_drop": false,
