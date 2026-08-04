@@ -8,7 +8,7 @@
   "hyoas5": false,
   "hyg_drop": false,
   "krw": false,
-  "jpy_move": false,
+  "jpy_move": true,
   "dxy": false,
   "gold_drop": false,
   "gs_ratio": false,
