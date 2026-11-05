@@ -13,9 +13,9 @@
   "gold_drop": false,
   "gs_ratio": false,
   "copper_drop": false,
-  "spx_drop": false,
+  "spx_drop": true,
   "sox_drop": true,
-  "rut_drop": false,
+  "rut_drop": true,
   "kre_drop": false,
   "btc_drop": false
 }
