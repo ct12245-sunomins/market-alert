@@ -17,5 +17,5 @@
   "sox_drop": false,
   "rut_drop": false,
   "kre_drop": false,
-  "btc_drop": false
+  "btc_drop": true
 }
