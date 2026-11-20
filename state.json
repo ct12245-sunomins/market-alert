@@ -13,7 +13,7 @@
   "gold_drop": true,
   "gs_ratio": true,
   "copper_drop": false,
-  "spx_drop": false,
+  "spx_drop": true,
   "sox_drop": true,
   "rut_drop": false,
   "kre_drop": false,
