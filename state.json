@@ -1,6 +1,6 @@
 {
   "vix20": true,
-  "vix30": true,
+  "vix30": false,
   "us10y": true,
   "us30y": true,
   "curve": false,
@@ -11,7 +11,7 @@
   "jpy_move": false,
   "dxy": false,
   "gold_drop": false,
-  "gs_ratio": true,
+  "gs_ratio": false,
   "copper_drop": false,
   "spx_drop": true,
   "sox_drop": true,
