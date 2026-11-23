@@ -11,7 +11,7 @@
   "jpy_move": false,
   "dxy": false,
   "gold_drop": false,
-  "gs_ratio": false,
+  "gs_ratio": true,
   "copper_drop": false,
   "spx_drop": true,
   "sox_drop": true,
