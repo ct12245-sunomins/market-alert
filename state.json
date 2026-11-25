@@ -1,6 +1,6 @@
 {
   "vix20": true,
-  "vix30": false,
+  "vix30": true,
   "us10y": true,
   "us30y": true,
   "curve": false,
